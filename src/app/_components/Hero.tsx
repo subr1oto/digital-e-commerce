@@ -6,7 +6,8 @@ function Hero() {
       <div className="mx-auto max-w-screen-xl px-4 py-24 lg:flex lg:h-screen">
         <div className="mx-auto max-w-xl text-center">
           <h1 className="text-3xl font-extrabold sm:text-5xl">
-            TubeGuruji Marketplace <br></br>
+            <span className="text-primary">TubeGuruji</span> Marketplace{" "}
+            <br></br>
             Access Free &nbsp;
             <strong className="font-extrabold text-primary sm:block">
               Source Code & Assets
